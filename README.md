@@ -1,2 +1,2 @@
 # mosip_demo
-This is the demo video of our android app.
+you just need to install python 3.6 and opencv in your system and you are ready for the registration. Just run the above file.
